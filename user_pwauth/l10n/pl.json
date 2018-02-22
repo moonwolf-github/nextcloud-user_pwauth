@@ -1,0 +1,6 @@
+{ "translations": {
+	"pwauth_path" : "Ścieżka pliku wykonywalnego pwauth: ",
+	"uid_list" : "Lista dozwolonych UID-ów: ",
+	"uid_list_original-title" : "Oddzielone ';' lub zakres UID-ów rozdzielony '-', na przyład 1000-1003;1005"
+},"pluralForm" :"nplurals=2; plural=(n != 1);"
+}
